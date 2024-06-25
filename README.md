@@ -18,5 +18,6 @@ The project primarily uses JavaScript with HTML and CSS for styling.
 - Backpack.css (for styling)
 
 
-https://github.com/shayanjaviid/Click-The-Button/assets/104303445/2002c057-6d8d-4898-837e-15badfe1d04c
+
+![Video](https://github.com/shayanjaviid/Click-The-Button/assets/104303445/cf4ad0a4-4c5e-492f-90d3-e1db08e5a446)
 
