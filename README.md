@@ -9,17 +9,10 @@ Click the Button is a playful interactive web application built using React. It 
 - **Debug Mode**: Toggle debug mode to display additional information about the application state.
 - **Responsive Design**: Designed to be responsive across different screen sizes using CSS media queries.
 
-## Getting Started
+## Technologies Used
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Node.js and npm installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/click-the-button.git
-   cd click-the-button
+The project primarily uses JavaScript with HTML and CSS for styling.
+- React
+- HTML/CSS
+- JavaScript
+- Backpack.css (for styling)
